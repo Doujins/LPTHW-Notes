@@ -1,0 +1,7 @@
+print "Hello"
+print "Hello Again"
+print "I like bmob"
+print "This is fun"
+print "Yeah"
+print "hhhhhhh"
+print "23333"
